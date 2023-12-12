@@ -5,9 +5,8 @@ const store = createStore({
     state() {
         return {
             productsList: [],
-						selectedProductsList:[],
-							brands:[],
-							sellers:[],
+	selectedProductsList:[],
+						 
 						
             selectedBrandId: null,
             selectedSellerId: null,
